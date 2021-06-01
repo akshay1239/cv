@@ -1,0 +1,20 @@
+body{
+  background-color: #8e9775;
+}
+
+hr{
+background-color: #8e9775;
+border-color: Blue;
+border-style: none;
+border-top-style: dotted;
+width: 7%;
+border-width: 5px;
+}
+
+h1{
+color: Green;
+}
+
+h2{
+  color: Green;
+}
